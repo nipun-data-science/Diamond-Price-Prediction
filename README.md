@@ -1,4 +1,4 @@
-# Diamond Price Prediction Project README
+# Diamond Price Prediction
 
 ## Project Overview
 
